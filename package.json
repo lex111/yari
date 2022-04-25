@@ -142,7 +142,7 @@
     "extend": "^3.0.2",
     "flexsearch": "0.6.32",
     "foreman": "3.0.1",
-    "fzf": "0.4.1",
+    "fzf": "0.5.1",
     "history": "5.0.1",
     "html-validate": "5.5.0",
     "husky": "^6.0.0",
